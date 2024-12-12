@@ -1,5 +1,18 @@
 # Changelog
 
+## [4.2.0](https://github.com/carbon-design-system/gatsby-theme-carbon/compare/v4.1.21...v4.2.0) (2024-12-12)
+
+
+### Features
+
+* minor package updates and formatting fix ([#1554](https://github.com/carbon-design-system/gatsby-theme-carbon/issues/1554)) ([57bbfc6](https://github.com/carbon-design-system/gatsby-theme-carbon/commit/57bbfc669a827aaee95f38b76af4a45060f5fa62))
+
+## [4.1.21](https://github.com/carbon-design-system/gatsby-theme-carbon/compare/v4.1.20...v4.1.21) (2024-12-05)
+
+## [4.1.20](https://github.com/carbon-design-system/gatsby-theme-carbon/compare/v4.1.19...v4.1.20) (2024-12-04)
+
+## [4.1.19](https://github.com/carbon-design-system/gatsby-theme-carbon/compare/v4.1.18...v4.1.19) (2024-12-04)
+
 ## [4.1.18](https://github.com/carbon-design-system/gatsby-theme-carbon/compare/v4.1.17...v4.1.18) (2024-12-04)
 
 ## [4.1.17](https://github.com/carbon-design-system/gatsby-theme-carbon/compare/v4.1.16...v4.1.17) (2024-12-04)
